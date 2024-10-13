@@ -35,18 +35,6 @@ const default_config = {
         name: "Social Media",
         links: [
           {
-            name: "whatsapp",
-            url: "https://web.whatsapp.com/",
-            icon: "brand-whatsapp",
-            icon_color: "#a9b665",
-          },
-          {
-            name: "twitter",
-            url: "https://twitter.com/home",
-            icon: "brand-twitter-filled",
-            icon_color: "#7daea3",
-          },
-          {
             name: "reddit",
             url: "https://www.reddit.com/",
             icon: "brand-reddit",
@@ -102,6 +90,12 @@ const default_config = {
             icon: "brand-amazon",
             icon_color: "#7daea3",
           },
+          {
+            name: "netflix",
+            url: "https://www.netflix.com/de-en/",
+            icon: "brand-netflix",
+            icon_color: "#ea6962",
+          },
         ],
       }],
     },
@@ -123,12 +117,6 @@ const default_config = {
               url: "https://www.artstation.com/?sort_by=community",
               icon: "chart-area",
               icon_color: "#7daea3",
-            },
-            {
-              name: "leonardo ai",
-              url: "https://app.leonardo.ai/",
-              icon: "brand-openai",
-              icon_color: "#89b482",
             },
             {
               name: "dribble",
@@ -164,12 +152,6 @@ const default_config = {
               url: "https://color.adobe.com/es/create/color-wheel",
               icon: "brand-adobe",
               icon_color: "#7daea3",
-            },
-            {
-              name: "terminalsexy",
-              url: "https://terminal.sexy",
-              icon: "prompt",
-              icon_color: "#e78a4e",
             },
           ],
         },
@@ -210,12 +192,6 @@ const default_config = {
         {
           name: "resources",
           links: [
-            {
-              name: "phind",
-              url: "https://www.phind.com/",
-              icon: "brand-openai",
-              icon_color: "#89b482",
-            },
             {
               name: "flutter",
               url: "https://docs.flutter.dev/ui",
@@ -291,29 +267,11 @@ const default_config = {
               icon: "brand-google-drive",
               icon_color: "#e78a4e",
             },
-            {
-              name: "dropbox",
-              url: "https://www.dropbox.com/h?role=personal&di=left_nav",
-              icon: "box-seam",
-              icon_color: "#7daea3",
-            },
-            {
-              name: "fotos",
-              url: "https://photos.google.com/u/1",
-              icon: "photo-filled",
-              icon_color: "#ea6962",
-            },
           ],
         },
         {
           name: "stuff",
           links: [
-            {
-              name: "linkedin",
-              url: "https://www.linkedin.com/feed/",
-              icon: "brand-linkedin",
-              icon_color: "#7daea3",
-            },
           ],
         },
       ],

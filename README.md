@@ -1,24 +1,12 @@
 <div align="center">
     <img src="/img/README-decorator.png" width=300/><br/>
-    <a href="https://github.com/AllJavi/tartarus-startpage/stargazers">
-        <img src="https://img.shields.io/github/stars/AllJavi/tartarus-startpage?color=a9b665&style=for-the-badge&logo=starship">
-    </a>
-    <a href="https://github.com/AllJavi/tartarus-startpage/issues">
-        <img src="https://img.shields.io/github/issues/AllJavi/tartarus-startpage?color=ea6962&style=for-the-badge&logo=codecov">
-    </a>
-    <a href="https://github.com/AllJavi/tartarus-startpage/network/members">
-        <img src="https://img.shields.io/github/forks/AllJavi/tartarus-startpage?color=7daea3&style=for-the-badge&logo=jfrog-bintray">
-    </a>
-    <a href="https://github.com/AllJavi/tartarus-startpage/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-orange.svg?color=d4be98&style=for-the-badge&logo=archlinux">
-    </a>
 </div>
 
 ## 💻 Preview
 
 https://github.com/AllJavi/tartarus-startpage/assets/49349604/9a2a3f4c-33ef-4eb3-9243-cc160a56a181
 
-This start page is based on the [dawn](https://github.com/b-coimbra/dawn) repository, which has even more functionality. I've tweaked the page's style a bit to match my [dotfiles](https://github.com/AllJavi/tartarus-dotfiles), and I've added some features to make it more comfortable.
+This start page is a fork of [tartarus](https://github.com/AllJavi/tartarus-startpage) which is based on the [dawn](https://github.com/b-coimbra/dawn) repository, which has even more functionality.
 
 ## ⌨️ Keybindings
 | Hotkey                                            | Action                      |
@@ -66,6 +54,7 @@ If you want to reduce the loading time of the icons, you could install the [icon
 
 ## Credit
 - [Dawn Startpage](https://github.com/b-coimbra/dawn) ([preview](https://startpage.metaphoric.dev/))
+- [Tartarus Startpage](https://github.com/AllJavi/tartarus-startpage)
 
 ## License
 [MIT License](./LICENSE)
